@@ -3,3 +3,4 @@ chicken 65 - $15
 mutton briyani - $20
 sapota shake - $5
 enjoy above menu!!
+hotel is in profits
