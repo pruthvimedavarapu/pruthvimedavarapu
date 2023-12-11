@@ -7,3 +7,4 @@ hotel is in profits
 Explore the tasteg
 hotel is closed
 hotel is opened 
+sony is mad
