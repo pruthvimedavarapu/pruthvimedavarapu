@@ -6,3 +6,4 @@ enjoy above menu!!
 hotel is in profits
 Explore the tasteg
 hotel is closed
+hotel is opened 
